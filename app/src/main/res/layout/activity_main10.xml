@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity10">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Benaulim Beach"
+        android:textSize="40sp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Benaulim has three beaches: The main Benaulim beach is neighboured by Trinity beach to the south and Sernabatim beach to the north.[9] Benaulim beach is popular among the locals and tourists alike.[10] Apart from sunbathing and swimming, there are also options of parasailing, jet skiing, boat riding and wind surfing. Benaulim beaches are pristine, as they are relatively undeveloped.[11] Due to reduced human movement during the coronavirus lockdown, five adult Olive Ridley turtles washed up on Benaulim beach after decades, in June 2020. The turtles were trapped in fishing nets on the beach and were rescued by Benaulim fisherman Pele and his friends."
+        android:textSize="20sp"
+        android:layout_marginTop="60dp"
+        android:padding="5dp"/>
+
+</RelativeLayout>

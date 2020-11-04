@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Places to visit in Goa"
+        android:textSize="40sp"
+        android:layout_marginLeft="15dp"
+        />
+
+    <Button
+        android:id="@+id/b1"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Chapora Beach"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="60dp"/>
+
+    <Button
+        android:id="@+id/b2"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Mandrem Beach"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="100dp"/>
+
+    <Button
+        android:id="@+id/b3"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Morjim Beach"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="140dp"/>
+
+    <Button
+        android:id="@+id/b4"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Anjuna Beach"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="180dp"/>
+
+    <Button
+        android:id="@+id/b5"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Bogmalo Beach"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="220dp"/>
+
+    <Button
+        android:id="@+id/b6"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Baga Beach"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="260dp"/>
+
+    <Button
+        android:id="@+id/b7"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Calangute Beach"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="300dp"/>
+
+    <Button
+        android:id="@+id/b8"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Colva Beach"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="340dp"/>
+
+    <Button
+        android:id="@+id/b9"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Benaulim Beach"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="380dp"/>
+
+    <Button
+        android:id="@+id/b10"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Bambolim Beach"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="420dp"/>
+
+</RelativeLayout>

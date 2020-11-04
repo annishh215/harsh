@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity7">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Baga Beach"
+        android:textSize="40sp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Baga a seaside town in Bardez, Goa, India. It comes under the jurisdiction of Calangute, which is 2 km south. Baga is known for its popular beach and Baga Creek. It is visited by thousands of tourists annually. The beach contains rows of shacks and fishing boats, and at high tide the beach is narrow. Baga Beach is also famous for water sports, such as parasailing and banana rides, and dolphin cruises. In Baga Beach, new parking has been constructed for around 800 cars or more, and there is baga creek bridge which connects northern part like Arpora, Anjuna etc.."
+        android:textSize="20sp"
+        android:layout_marginTop="60dp"
+        android:padding="5dp"
+        />
+
+</RelativeLayout>

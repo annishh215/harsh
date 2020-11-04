@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity4">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Morjim Beach"
+        android:textSize="40sp"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Morjim Beach is a nesting and hatching habitat of the Olive ridley sea turtle, an endangered species. They are afforded the highest degree of protection under Indian law through their inclusion in Schedule I of the Wildlife Protection Act of 1972. Egg-poaching or in any manner disturbing the turtles or their habitat is an offence punishable under Indian law."
+        android:textSize="20sp"
+        android:layout_marginTop="60dp"
+        android:padding="5dp"
+        />
+
+</RelativeLayout>
